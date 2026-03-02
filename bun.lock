@@ -4,6 +4,7 @@
   "workspaces": {
     "": {
       "dependencies": {
+        "@iconify-json/octicon": "^1.2.21",
         "@tailwindcss/vite": "^4.1.12",
         "astro": "^5.13.2",
         "astro-icon": "^1.1.5",
@@ -111,6 +112,8 @@
     "@iconify-json/mdi": ["@iconify-json/mdi@1.2.3", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-O3cLwbDOK7NNDf2ihaQOH5F9JglnulNDFV7WprU2dSoZu3h3cWH//h74uQAB87brHmvFVxIOkuBX2sZSzYhScg=="],
 
     "@iconify-json/mingcute": ["@iconify-json/mingcute@1.2.5", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-LKlW4wahStprbfJcpzUnuayObOVAuztgYSy3v5oTke6cBJNfqEeE/mtMhHgpoSgGJvo5hhde2Q0+DoxKEldY2A=="],
+
+    "@iconify-json/octicon": ["@iconify-json/octicon@1.2.21", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-iMW8IT7suHRKVcHnci9wHKY79LU9mQ4rCAcVgKQQsI5SHoBi0r6z0leOXrI/oRCGJDiJDy9cLqweF3C5wSnm0A=="],
 
     "@iconify-json/token": ["@iconify-json/token@1.2.26", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-1OA17rgXRs60n0HFAGv3Xr6sK3ySSVOxn9NTHKpLq3li31oBQrO29C6o+5dbt4VzgWnfa3PNsWjdXAfHG5BWhw=="],
 
